@@ -1,2 +1,2 @@
 # Budgety
-Simple budget application
+Simple budget planning application
